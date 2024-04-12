@@ -7,6 +7,7 @@ class Mammal extends Animal {
 
     @Override
     void makeSound() {
+        System.out.println("Habitat - Jungle");
         System.out.println("ror");
     }
 

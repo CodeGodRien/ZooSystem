@@ -12,6 +12,7 @@ class Ape extends Primate implements Swimmable {
     }
 
     public void swim() {
+        System.out.println("Habitat - Savannah");
         System.out.println("Ape swims");
     }
 }

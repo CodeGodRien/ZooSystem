@@ -40,7 +40,7 @@ public class ZooSystem {
 
         while (true) {
             System.out.println("Enter Choice");
-            System.out.println("1. Bird 2. Ape, 3. Monkey, 4. View, 5. Exit");
+            System.out.println("1. Bird");
             System.out.println("2. Ape");
             System.out.println("3. Monkey");
             System.out.println("4. View");
